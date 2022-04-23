@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RunDownBowl
-- 👀 I’m interested in A.I, coding with Pythin and ...
+- 👀 I’m interested in A.I, coding with Python and ...
 - 🌱 I’m currently learning Python and Networking
 - 💞️ I’m looking to collaborate on things can help me learn and understand better
 - 📫 How to reach me ... send me a message on Github
